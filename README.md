@@ -4,7 +4,7 @@ This project explores the effectiveness of fine-tuned **Small Language Models (S
 
 ## Overview
 
-We investigate whether smaller models (GPT-Neo-125M, Phi-1.5B, TinyLlama-1.1B) can approach the summarization performance of large language models, focusing on a dataset of 5,000 Spanish Wikipedia biographies.
+We investigate whether smaller models (**GPT-Neo-125M, Phi-1.5B, TinyLlama-1.1B**) can approach the summarization performance of large language models, focusing on a dataset of 5,000 Spanish Wikipedia biographies.
 
 ## Models Used
 
